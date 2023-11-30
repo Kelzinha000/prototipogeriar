@@ -1,0 +1,95 @@
+body{
+  background-color: antiquewhite;
+
+}
+.container{
+ background-color :#91009d;
+ padding: 20px;
+}
+.logo{
+ color: white;
+ font-size: 40px;
+ text-align: start;
+ font-family: 'Caveat Brush', cursive;
+font-family: 'Hedvig Letters Serif', serif;
+font-family: 'Kanit', sans-serif;
+font-weight: bold;
+margin: 0px 0px 0px 100px;
+
+
+
+}
+.nav{
+    text-align: end;
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 100px 0px;
+    font-size: 20px;
+    font-family: 'Hedvig Letters Serif', serif;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    
+
+}
+a:hover{
+    transition:0.5s ;
+    font-size: 25px;
+}
+
+.caixa1{
+   padding-left: 400px;
+   padding-top: 70px ;
+  
+}
+.section{
+    display: flex;
+    margin: 90px auto;
+    background-color:#91009d;
+    border-radius: 15px;
+    margin:  50px ; 
+    padding: 20px;
+    
+
+}
+.formulario{
+    display: flex;
+    text-align: center;
+    color: white;
+    margin: 30px;
+    font-family: 'Hedvig Letters Serif', serif;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    flex-direction: column;
+    
+
+}
+input{
+    margin: 10px;
+    font-size:20px;
+    font-family: 'Kanit', sans-serif;
+    border-radius: 13px;
+   
+}
+
+main{
+    display: flex;
+    align-items: center;
+   
+}
+
+.button{
+    margin: 20px;
+    padding: 10px;
+    background-color: #fad7a3;
+    border:#fad7a3 ;
+    font-size: 18px;
+    border-radius: 25px;
+    font-family: 'Kanit', sans-serif;
+    
+
+    
+}
